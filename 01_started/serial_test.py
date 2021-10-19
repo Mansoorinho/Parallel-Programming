@@ -19,3 +19,4 @@ if __name__ == "__main__":
         
     print("List processing complete.")
     end_time = time.time()
+    print("serial time=", end_time - start_time)
